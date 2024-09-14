@@ -18,6 +18,7 @@ console.log(ToytaCar);
 
 // creating a OBJ
 
+
 let fortuner = new ToytaCar (); // new -->> keyword  which create an new OBJ through classes 
 console.log(fortuner);
 fortuner.setBrand("fortuner");
