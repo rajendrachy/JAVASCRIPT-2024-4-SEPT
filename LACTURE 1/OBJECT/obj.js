@@ -7,14 +7,20 @@ const student =  {   //student is a object
 };
 
 
+
+
+//student["age"] = student["age"] + 1; // to update a age by +1 
+
+
+//1
 // console.log(student.age);
 
 //or
-
+// 2.
 console.log(student["cgpa"]); // 9.02
 console.log(student["age"]); // 20
 
 
 
-// both are write 
+// both are write  1 & 2
 

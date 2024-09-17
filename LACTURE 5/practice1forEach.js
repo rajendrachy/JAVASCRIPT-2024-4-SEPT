@@ -3,6 +3,6 @@
 
 let nums = [2, 3, 4, 5, 6];
 
-nums.forEach((num) => {
-    console.log(num * num); //or num**2
-}) 
+nums.forEach((nums) => { // nums or num
+    console.log(nums * nums); //or num**2
+});
