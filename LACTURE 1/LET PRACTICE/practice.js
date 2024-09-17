@@ -1,4 +1,4 @@
-const product = {
+const product = { //This is a JavaScript object
 title:"Ball pen",
 rating: 4,
 price:270,

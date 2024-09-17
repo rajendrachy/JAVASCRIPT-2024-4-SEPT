@@ -8,6 +8,7 @@ console.log(fullName);
 console.log(age);
 
 
+
 console.log("Hello world");
 
 console.log("Hello my name is rajendra chaudhary");
