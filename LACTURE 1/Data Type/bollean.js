@@ -1,2 +1,2 @@
 let isFollow = true;
-console.log(isFollow);
+console.log(isFollow); // -->> output -->> true

@@ -1,6 +1,8 @@
 let outputs = document.getElementById("outputs");
 
-function colors () {
+function colors () 
+
+{
     var red = document.getElementById("red").value;
     var green = document.getElementById("green").value;
     var blue = document.getElementById("blue").value;
@@ -10,6 +12,9 @@ function colors () {
 
     document.getElementById("outputs").innerHTML = 'rgb(' + red + ',' + green + ',' + blue + ')';
 
-    
 }
+
+
+
+
 
